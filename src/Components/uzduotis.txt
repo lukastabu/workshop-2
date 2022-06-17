@@ -1,0 +1,3 @@
+Užduotis su vienu API
+Gauti visus duomenis iš https://pokeapi.co/api/v2/pokemon API ir išrenderinti Pokemons komponente. Nenaudoti bibliotekų. Pvz. https://reactjs.org/docs/faq-ajax.html
+Pokemons komponente turėtų būti panaudotas Pokemon komponentas, kuris per props gauna name ir url iš API.
